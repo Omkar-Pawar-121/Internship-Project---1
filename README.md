@@ -1,2 +1,2 @@
 # Internship-Project-1
-Solving Demand - Supply descripency problem using ML 
+Solving Demand - Supply discrepancy problem using ML 
