@@ -1,5 +1,6 @@
 # Internship-Project-1
-Solving Demand - Supply discrepancy problem using ML 
+
+Solving the Demand-Supply Discrepancy for an FMCG Company using ML 📈🔍
 
 # Optimal Inventory Management for Instant Noodles - Readme
 
