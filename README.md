@@ -5,23 +5,23 @@ Solving Demand - Supply discrepancy problem using ML
 
 ## 🍜 Project Overview
 
-Welcome to the Optimal Inventory Management project for our Fast Moving Consumer Goods (FMCG) company's instant noodles business. In this project, we address the challenge of managing the demand and supply of our product efficiently across various warehouses in the country. The goal is to use historical data to develop a machine learning algorithm that calculates the optimal weight of products to be shipped from each warehouse, thereby minimizing inventory costs and improving overall profitability.
+Welcome to the Optimal Inventory Management project for the Fast Moving Consumer Goods (FMCG) company's instant noodles business. In this project, I address the challenge of managing the demand and supply of our product efficiently across various warehouses in the country. The goal is to use historical data to develop a machine-learning algorithm that calculates the optimal weight of products to be shipped from each warehouse, thereby minimizing inventory costs and improving overall profitability.
 
 ## 📊 Problem Statement
 
-Our company has observed a discrepancy between the demand and supply of instant noodles in different regions. This imbalance has led to increased inventory costs and financial losses. To address this, we aim to build a predictive model that considers historical sales data, warehouse-specific factors, and demand variations to determine the ideal quantity of instant noodles to be dispatched from each warehouse.
+The company has observed a discrepancy between the demand and supply of instant noodles in different regions. This imbalance has led to increased inventory costs and financial losses. To address this, we aim to build a predictive model that considers historical sales data, warehouse-specific factors, and demand variations to determine the ideal quantity of instant noodles to be dispatched from each warehouse.
 
 ## 🤖 Solution Approach
 
-We have developed a machine learning algorithm that leverages historical sales data, warehouse capacities, geographical demand trends, and other relevant features to predict the optimal shipment quantity for each warehouse. The algorithm takes into account factors such as seasonality, local events, and economic indicators to make accurate predictions.
+I have developed a machine learning algorithm that leverages historical sales data, warehouse capacities, geographical demand trends, and other relevant features to predict the optimal shipment quantity for each warehouse. The algorithm takes into account factors such as seasonality, local events, and economic indicators to make accurate predictions.
 
 ## 🛠️ Methodology
 
-1. **Data Collection**: We collected historical data on instant noodles sales, warehouse capacities, geographical demographics, and relevant external factors.
+1. **Data Collection**: I collected historical data on instant noodles sales, warehouse capacities, geographical demographics, and relevant external factors.
 
 2. **Data Preprocessing**: The data was cleaned, missing values were handled, and features were engineered. We standardized and transformed the data to make it suitable for training.
 
-3. **Feature Selection**: We identified the most influential features through exploratory data analysis and feature importance techniques.
+3. **Feature Selection**: I identified the most influential features through exploratory data analysis and feature importance techniques.
 
 4. **Model Development**: Using machine learning techniques, we trained a predictive model to forecast the optimal shipment weight for each warehouse. We experimented with various algorithms and selected the best-performing one.
 
@@ -39,14 +39,14 @@ We have developed a machine learning algorithm that leverages historical sales d
 
 ## 🚀 Future Enhancements
 
-We acknowledge that continuous improvement is key. In the future, we plan to:
+I acknowledge that continuous improvement is key. In the future, I plan to:
 
-- **Real-time Updates**: Implement a mechanism to update the model with fresh data in real time, improving accuracy.
+- **Real-time Updates**: Implement a mechanism to update the model with fresh data in real-time, improving accuracy.
 
 - **Dynamic Factors**: Integrate dynamic external factors that might affect demand, such as new marketing campaigns or economic changes.
 
 ## 🙌 Contributing
 
-We welcome contributions to this project. If you have ideas for improvement, feel free to fork this repository, make your changes, and submit a pull request.
+I welcome contributions to this project. If you have ideas for improvement, feel free to fork this repository, make your changes, and submit a pull request.
 
 Let's work together to optimize our instant noodles inventory management and achieve greater success! 🍽️📦📈
